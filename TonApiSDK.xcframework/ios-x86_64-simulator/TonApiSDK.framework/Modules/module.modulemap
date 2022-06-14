@@ -1,0 +1,8 @@
+framework module TonApiSDK {
+    umbrella header "TonApiSDK.h"
+
+    export *
+    module * { export * }
+
+    use Foundation
+}
